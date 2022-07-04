@@ -1,26 +1,21 @@
-<p align="center">
-  <h1 align='center'>Hi there 👋🏾, I'm Babatunde Koiki</h1> 
-  <p align="center"> I am a Software Developer focused on (Python/Flask, Node/Express, React, TypeScript), also a <a href="https://medium.com/@bkoiki950" target="_blank">Technical writer</a>.</p>
+<h1 align="center">Hi 👋, I'm Babatunde Koiki</h1>
+<h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://twitter.com/bkoiki950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dystopiandev" height="24" width="24" /></a>
+<a href="https://linkedin.com/in/babatunde-koiki-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Babatunde13" height="24" width="24" /></a>
+<a href="https://stackoverflow.com/users/10053193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2779225" height="24" width="24" /></a>
+<a href="https://instagram.com/babatunde_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Babatunde13" height="24" width="24" /></a>
 </p>
 
-<p align='center'>
-<a href="https://wa.me/2348180854296?text=Hello Babatunde" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/bkoiki950" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/babatunde-koiki-2002" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:koikibabatunde14@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/Babatunde13" />
-  
-  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Babatunde13&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Babatunde13&theme=tokyonight">
+<br />
+
+<p>&nbsp;<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Babatunde13&show_icons=true&count_private=true&locale=en" alt="dystopiandev" />
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Babatunde13&" alt="Babatunde13" />
 </p>
-</p>
- 
+
+
+<p align="left"> <img width="0em" height="0em" src="https://komarev.com/ghpvc/?username=Babatunde13&label=Profile%20views&color=0e75b6&style=flat" alt="dystopiandev" /> </p>
+
+<p align="left"><img height="180em" src="https://github-profile-trophy.vercel.app/?username=Babatunde13" alt="Babatunde13" /> </p>
