@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Babatunde Koiki</h1>
-<h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
+### Hi there 👋 I am Babatunde Koiki
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/bkoiki950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dystopiandev" height="24" width="24" /></a>
-<a href="https://linkedin.com/in/babatunde-koiki-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Babatunde13" height="24" width="24" /></a>
-<a href="https://stackoverflow.com/users/10053193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2779225" height="24" width="24" /></a>
-<a href="https://instagram.com/babatunde_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Babatunde13" height="24" width="24" /></a>
-</p>
+<head>
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+</head>
 
-<br />
+I am a computer science student at IUBH 🧑‍🎓, software engineer 👨‍💻 and technical writer 🖊️.
+I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
-<p>&nbsp;<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Babatunde13&show_icons=true&count_private=true&locale=en" alt="dystopiandev" />
-  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Babatunde13&" alt="Babatunde13" />
-</p>
+- 🔭 I’m currently looking for freelance projects.
+- 🌱 I’m currently learning Docker, Kubernetes,Golang, Java, AWS and Cloud technologies.
+- 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://medium.com/@bkoiki950) [![dev.to_icon](./icons/devto.svg)](https://dev.to/bkoiki950)
+- 💬 Ask me about Javascript, Typescript, Pythonm Flask, React, Nest, Backend and all things software engineering
+- 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Babatunde13)
+  [![twitter_icon](./icons/twitter.svg)](https://twitter.com/bkoiki950)
+  [![gmail_icon](./icons/gmail.svg)](mailto:koikibabatunde14@gmail.com)
+  [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/babatunde-koiki-2002/)
+- 😄 Pronouns: He, His, Him
+- ⚡ Fun fact: I love computers, watching horror movies 🍿 .
 
+## Some Stats
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=Babatunde13&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Babatunde13&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Babatunde13&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
+</div>
 
-<p align="left"> <img width="0em" height="0em" src="https://komarev.com/ghpvc/?username=Babatunde13&label=Profile%20views&color=0e75b6&style=flat" alt="dystopiandev" /> </p>
-
-<p align="left"><img height="180em" src="https://github-profile-trophy.vercel.app/?username=Babatunde13" alt="Babatunde13" /> </p>
