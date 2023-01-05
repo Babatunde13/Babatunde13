@@ -4,7 +4,6 @@
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
-[tt](jj)
 I am a computer science student at IUBH 🧑‍🎓, software engineer 👨‍💻 and technical writer 🖊️.
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
