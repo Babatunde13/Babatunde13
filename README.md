@@ -4,11 +4,11 @@
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
-I am a computer science student at IUBH 🧑‍🎓, software engineer 👨‍💻 and technical writer 🖊️.
+I am a computer science student at [IUBH](www.iu.org) 🧑‍🎓, software engineer 👨‍💻 and technical writer 🖊️.
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
 - 🔭 I’m currently looking for freelance projects.
-- 🌱 I’m currently learning Docker, Kubernetes,Golang, Java, AWS and Cloud technologies.
+- 🌱 I’m currently learning Docker, Kubernetes, Golang, Java, AWS and Cloud technologies.
 - 🖊️I️️ write articles on [<img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/762fd4bd-7d50-4ac3-80d3-bad44702bf87-1604363697348.png" height="24">](https://medium.com/@bkoiki950) [<img src="https://github.com/Xavier577/Xavier577/raw/main/icons/devto.svg" alt="de_to_icon">](https://dev.to/bkoiki950)
 - 💬 Ask me about Javascript, Typescript, Python Flask, React, Nest, Backend and all things software engineering
 - 📫 How to reach me: [<img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="github_icon" height="24">](http://github.com/Babatunde13)
